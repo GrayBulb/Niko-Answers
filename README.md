@@ -3,6 +3,8 @@ Remake of that one oneshot meme
 
 I tried my best ok
 
+I made this for fun also
+
 # Screenshots
 <img width="307" height="134" alt="Captureg" src="https://github.com/user-attachments/assets/543b8a87-d9ce-4a92-99ca-26661b032512" />
 <img width="297" height="135" alt="Capture" src="https://github.com/user-attachments/assets/18f434d7-690c-4f58-9303-36989c315154" />
